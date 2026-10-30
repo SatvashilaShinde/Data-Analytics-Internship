@@ -1,9 +1,3 @@
-
--- ==========================================
--- SQL FOUNDATION ASSESSMENT
--- Student Database Management
--- ==========================================
-
 -- 1. Create Database
 CREATE DATABASE StudentDB;
 USE StudentDB;
