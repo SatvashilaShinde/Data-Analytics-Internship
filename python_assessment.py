@@ -1,8 +1,3 @@
-
-# ==========================================
-# PYTHON FOUNDATION ASSESSMENT
-# ==========================================
-
 # 1. Variables and Data Types
 name = "Rahul"
 age = 21
