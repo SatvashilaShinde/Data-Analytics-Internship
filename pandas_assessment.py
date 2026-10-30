@@ -1,9 +1,3 @@
-
-# ==========================================
-# PANDAS FOUNDATION ASSESSMENT
-# Student Data Analysis
-# ==========================================
-
 import pandas as pd
 
 # 1. Read CSV File
