@@ -1,9 +1,3 @@
-
-# ==========================================
-# STATISTICS FOUNDATION ASSESSMENT
-# Student Marks Analysis
-# ==========================================
-
 import pandas as pd
 import numpy as np
 
